@@ -2,4 +2,4 @@
 
 Решение задач с сайта LeetCode: https://leetcode.com
 
-Личный профиль на сайте: https://leetcode.com/alexei_bulgakov/
+Личный профиль на сайте: User: AlexeiBulgakov
